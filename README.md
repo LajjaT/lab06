@@ -1,4 +1,4 @@
-# Lab 06 - Object-oriented Programming
+ Lab 06 - Object-oriented Programming
 
 In this lab, we'll learn how to create classes, unit test those classes and their functions, as well as file input and output.
 
